@@ -16,3 +16,4 @@ urlpatterns = [
     path('delete2/<int:task_id>/', delete_task, name='delete_task2'),    
 ]
 
+# need to be refactored and reanalyzed
